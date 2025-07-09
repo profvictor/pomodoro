@@ -1,0 +1,21 @@
+{
+  "name": "Pomodoro",
+  "short_name": "Pomodoro",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#d35400",
+  "theme_color": "#d35400",
+  "description": "Um app Pomodoro simples.",
+  "icons": [
+    {
+      "src": "icone.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icone.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 
