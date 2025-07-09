@@ -52,4 +52,4 @@ relax.gif, write.gif # Animações
 
 ---
 
-Feito com ❤️ por [Seu Nome] 
+Desenvolvido por Victor C.
